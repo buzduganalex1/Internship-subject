@@ -1,5 +1,3 @@
-# Internship-subject
-
 # Fizzbuzz
 - Create a new solution in visual studio
 - Add a new C# project with an appropriate name to the solution
