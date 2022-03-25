@@ -1,6 +1,6 @@
 # Internship-subject
 
-#Fizzbuzz
+# Fizzbuzz
 - Create a new solution in visual studio
 - Add a new C# project with an appropriate name to the solution
 - Add a new class and add a new function with appropriate name
