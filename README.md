@@ -7,6 +7,6 @@
   - if the number is divisible by 3 then return “fizz”
   - if the number is divisible by 5 then return “buzz”
   - if the number is divisible by both 5 and 3 then return “fizzbuzz”
-- otherwise just print the number itself
+- otherwise just return the number itself
 - Create a new test project with an appropriate name
 - Add a test class with several test methods that validate your implementation for the created function.
